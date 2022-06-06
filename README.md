@@ -1,17 +1,25 @@
 - 👋 Hi, I’m @KazantsevaVictoria
 - 👀 I’m interested in data analysis and sociology
-- 🌱 I’m currently learning in Yandex.Praktikum
+- 🌱 I completed my edication in Yandex.Praktikum
 - 📫 How to reach me: email victory4515@yandex.ru
                       tg @v_norwheels
-Проекты в портфолио:
-1) Изучение закономерностей, определяющих успешность игр. Используемые инструменты: Matplotlib, NumPy, Pandas, Python, исследовательский анализ данных, описательная статистика, предобработка данных, проверка статистических гипотез.
-https://github.com/KazantsevaVictoria/project_game
+Portfolio projects:
+1) The research of the patterns that determine the success of video games. 
+Instruments: Matplotlib, NumPy, Pandas, Python, exploratory data analysis, descriptive statistics, data preprocessing, statistical hypothesis testing.
+https://github.com/KazantsevaVictoria/project_game_eng eng
+https://github.com/KazantsevaVictoria/project_game ru
 
-2) Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста. Используемые инструменты: Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез.
-https://github.com/KazantsevaVictoria/project-a-b_test
 
-3) Анализ пользовательского поведения в мобильном приложении. Использумые инструменты: A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных.
-https://github.com/KazantsevaVictoria/project_food_app
+
+2) The test of hypotheses to increase the revenue of an online store - evaluate the results of an A / B test. 
+Instruments: Python, Pandas, Matplotlib, SciPy, A/B testing, statistical hypothesis testing.
+https://github.com/KazantsevaVictoria/project_a-b_test_eng eng
+https://github.com/KazantsevaVictoria/project-a-b_test ru
+
+3) Analysis of user behavior in a mobile application. 
+Instruments: A/B testing, Python, Pandas, Matplotlib, Seaborn, product metrics, Plotly, statistical hypothesis testing, data visualization.
+https://github.com/KazantsevaVictoria/project-food-app-eng
+https://github.com/KazantsevaVictoria/project_food_app ru
 
 <!---
 KazantsevaVictoria/KazantsevaVictoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
